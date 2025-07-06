@@ -1,3 +1,9 @@
+# *
 User-agent: *
 Allow: /
+
+# Host
+Host: https://alexbeton.com
+
+# Sitemaps
 Sitemap: https://alexbeton.com/sitemap.xml
