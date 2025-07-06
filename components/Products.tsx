@@ -38,7 +38,7 @@ export default function Products() {
                   </tbody>
                 </table>
                 <a
-                  href="tel:+7250201526"
+                  href="tel:+79250201526"
                   className="block w-full text-center bg-yellow-500 text-white font-semibold py-2 rounded hover:bg-yellow-600 transition"
                 >
                   Позвонить
