@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: "Алекс Бетон — стройматериалы и техника с доставкой",
     description:
       "Песок, щебень, бетон, чернозем и техника — с доставкой по МО. +7 925 020-15-26",
-    url: "https://example.com",
+    url: "https://alexbeton.com",
     siteName: "Алекс Бетон",
     locale: "ru_RU",
     type: "website",
