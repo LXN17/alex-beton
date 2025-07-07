@@ -32,6 +32,9 @@ export const metadata: Metadata = {
     locale: "ru_RU",
     type: "website",
   },
+  alternates: {
+    canonical: "https://alexbeton.com",
+  },
 };
 
 export default function RootLayout({
@@ -40,7 +43,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="scroll-smooth">
+    <html lang="ru" className="scroll-smooth">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased `}
       >
